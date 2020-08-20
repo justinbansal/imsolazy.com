@@ -1,6 +1,6 @@
 name: I'm so lazy
-description: Blogging about bad habits 
-meta_description: "I'm so lazy, blogging about bad habits"
+description: Blogging about life habits and creating a better lifestyle 
+meta_description: "I'm so lazy, a habits blog to help create a better lifestyle"
 
 markdown: kramdown
 highlighter: rouge
@@ -8,7 +8,7 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: "https://imsolazy.com"
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-175858395-1"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
