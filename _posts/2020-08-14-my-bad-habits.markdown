@@ -94,4 +94,4 @@ Here's some of my current stats:
 
 I think that's it for now. I'll publish my next post a week later with some progress on my goals of exercising 30 minutes a day and tracking my diet. Thanks for checking in!
 
-- JB
+JB
