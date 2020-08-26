@@ -3,7 +3,8 @@ layout: page
 title: About me 
 ---
 
-![Justin's Photo](/assets/images/about_me.jpg)
+![Justin's Photo](/assets/images/about_me.JPG)
+
 
 Welcome to the I'm so lazy blog! My name is Justin Bansal and I write about life habits and ways to create a better lifestyle.
 
