@@ -18,6 +18,6 @@ Apart from developing I also play a lot of video games and watch a lot of movies
 
 I've always heard of these "good habits" that successful people follow and wonder if they actually work. Reading about them is one thing but have you ever tried to make them your own? Join me as I look at different life habits and try to transform my lifestyle into one that keeps me healthy, motivated, and curious.
 
-- JB
+JB
 
 
