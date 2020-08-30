@@ -3,6 +3,7 @@ layout: post
 title:  "Week 1 Recap"
 date:   2020-08-25 10:00:00
 categories: 
+disqus: true
 ---
 
 Here’s a one week recap of my efforts to eat healthier and exercise for 30 minutes each day.

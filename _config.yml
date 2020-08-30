@@ -12,8 +12,8 @@ google_analytics: "UA-175858395-1"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: ""
 author: "Justin Bansal"
 
 # Disqus config
-disqus-shortname: ""
+disqus-shortname: "https-imsolazy-com"
+url: "https://imsolazy.com"

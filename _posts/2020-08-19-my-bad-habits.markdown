@@ -3,6 +3,7 @@ layout: post
 title:  "My bad habits"
 date:   2020-08-19 10:00:00
 categories: 
+disqus: true
 ---
 
 #### What is this blog about?
