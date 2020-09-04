@@ -9,7 +9,9 @@ paginate: 15
 baseurl: /
 domain_name: "https://imsolazy.com"
 google_analytics: "UA-175858395-1"
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Details for the RSS feed generator
 author: "Justin Bansal"
