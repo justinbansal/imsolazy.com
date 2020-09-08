@@ -19,3 +19,6 @@ author: "Justin Bansal"
 # Disqus config
 disqus-shortname: "https-imsolazy-com"
 url: "https://imsolazy.com"
+
+sass:
+  cache: false
