@@ -20,7 +20,7 @@ These are strength training exercises that use your own weight to provide resist
 
 Where do you start? Here’s a chart of 42 bodyweight exercises that you can perform at home. Source: [https://darebee.com/](https://darebee.com/). 
 
-![Chart with 42 bodyweight exercises](/assets/images/home-workouts/bodyweight-exercises-chart.jpg)
+![Chart with 42 bodyweight exercises]({{ "assets/images/home-workouts/bodyweight-exercises-chart.jpg" | absolute_url }})
 
 Even if you’re a complete beginner you can choose five exercises from the chart above and target different muscles to get a full body workout.  Figure out how long you want the session to be (10 mins, 20 mins, 30 mins) and then pick the moves.
 
