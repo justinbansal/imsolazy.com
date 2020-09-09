@@ -37,7 +37,7 @@ Here’s some of the things I was thinking of before getting out there:
 
 **Here’s what I ate that day:**
 
-![Photo of Day 1 Meals](/assets/images/week-1/aug_16.png)
+![Photo of Day 1 Meals]({{ "assets/images/week-1/aug_16.png" | absolute_url }})
 
 I used LoseIt to log my meals and am proud that I was able to do it regularly for a week. I’ve also used myFitnessPal in the past so both are pretty much the same in my opinion. I turned on reminders for meal plan logging in myFitnessPal sometime last year and still have it running. I thought those would be a neat way for me to remember to log my meals but it’s been several months and I’ve just learned to ignore them or swipe them away. 
 
@@ -72,7 +72,7 @@ Estimated calorie burn | 292
 
 I remember I was finishing up work and it was looking like it got colder and might rain. I ended up wearing a few extra layers and got myself out the door as soon as work was finished. As I was running the weather completely changed! The sun was shining bright and it got hot. I also wasn’t wearing shorts so I felt like the extra layers were holding me back. Even though I had just gone for a jog the day before, it felt so much harder today. I didn’t know what it was but I tried to fight it as much as I could. Again I took breaks and did some walking but still made sure to cover the same distance.
 
-![Photo of Day 2 Meals](/assets/images/week-1/aug_17.png)
+![Photo of Day 2 Meals]({{ "assets/images/week-1/aug_17.png" | absolute_url }})
 
 Some negatives from this day’s log include the leftover pizza I had for lunch along with the 6’’ sub.
 
@@ -89,7 +89,7 @@ Estimated calorie burn | 297
 
 Jogging didn’t feel any easier this day and I still had to take breaks. However, I made sure to cover the same distance.
 
-![Photo of Day 3 Meals](/assets/images/week-1/aug_18.png)
+![Photo of Day 3 Meals]({{ "assets/images/week-1/aug_18.png" | absolute_url }})
 
 Yes, I was finally under the budget! And looking at the food I ate I don’t see any real red flags unless you consider the cliff bar a bad choice.
 
@@ -97,7 +97,7 @@ Yes, I was finally under the budget! And looking at the food I ate I don’t see
 
 Bad news! This was the day I I forgot to start a workout on my Apple watch and so it didn’t get tracked. But I did work out and I chose to do a workout video at home as I was “tired” of all the jogging. This was a boxing / dance workout video that got the full body moving.
 
-![Photo of Day 4 Meals](/assets/images/week-1/aug_19.png)
+![Photo of Day 4 Meals]({{ "assets/images/week-1/aug_19.png" | absolute_url }})
 
 The log shows I was over 134 calories but this is because it doesn’t include the calories burned from my workout.
 
@@ -115,7 +115,7 @@ Workout type | Workout video at home
 Duration | 29 minutes
 Estimated calorie burn | 244
 
-![Photo of Day 5 Meals](/assets/images/week-1/aug_20.png)
+![Photo of Day 5 Meals]({{ "assets/images/week-1/aug_20.png" | absolute_url }})
 
 I went over today! My mom made mini mozzarella and kale pita pizzas for lunch and it was hard to estimate how many calories this was so I just added 3 servings and that totals to over 1000 calories by itself. Otherwise the meals look A-ok! 
 
@@ -123,11 +123,11 @@ Fun fact: I actually got up that morning eager to make something healthy for mys
 
 Here's what I wanted to make (Photo from [skinnytaste.com](https://www.skinnytaste.com/)):
 
-![Photo of sunny side eggs professional](/assets/images/week-1/sunny-side-eggs-professional.webp)
+![Photo of sunny side eggs professional]({{ "assets/images/week-1/sunny-side-eggs-professional.webp" | absolute_url }})
 
 Here's what I made on the first attempt:
 
-![Photo of my sunny side eggs first attempt](/assets/images/week-1/sunny-side-eggs-attempt.JPG)
+![Photo of my sunny side eggs first attempt]({{ "assets/images/week-1/sunny-side-eggs-attempt.JPG" | absolute_url }})
 
 ### Day 6 - Friday August 21
 
@@ -140,7 +140,7 @@ Duration | 38 minutes
 Distance | 6.9km
 Estimated calorie burn | 141
 
-![Photo of Day 6 Meals](/assets/images/week-1/aug_21.png)
+![Photo of Day 6 Meals]({{ "assets/images/week-1/aug_21.png" | absolute_url }})
 
 I was over by about 61 calories. Okay here comes an excuse - it was Friday so I ended up eating more. This is a bit of a weird scenario but I think it happens to a lot of us. We tend to eat more on weekends. I don’t know why it happens but I think it’s connected to the fact that we tend to have more social outings on Fridays and Saturdays and when we go out we tend to eat more.
 
@@ -160,7 +160,7 @@ Workout type | Workout video at home
 Duration | 32 minutes
 Estimated calorie burn | 192
 
-![Photo of Day 7 Meals](/assets/images/week-1/aug_22.png)
+![Photo of Day 7 Meals]({{ "assets/images/week-1/aug_22.png" | absolute_url }})
 
 Saturday was a really bad meal day for me. Again I had dinner plans and also had spontaneous plans for a mid-day session at the golf range where I enjoyed a beer.
 
@@ -178,7 +178,7 @@ Workout type | HIIT workout video
 Duration | 26 minutes
 Estimated calorie burn | 243
 
-![Photo of Day 8 Meals](/assets/images/week-1/aug_23.png)
+![Photo of Day 8 Meals]({{ "assets/images/week-1/aug_23.png" | absolute_url }})
 
 Boom! I was under by 200 calories for my last day of the week.
 
@@ -186,7 +186,7 @@ I had leftover pizza for dinner which I knew was a bad choice but I only had a f
 
 I did try to make the sunny side up eggs on toast again and it was a success! It tasted so good. I can’t believe I was missing out on this my whole life!
 
-![Photo of Sunny Side Eggs on Toast](/assets/images/week-1/sunny-side-eggs-success.JPG)
+![Photo of Sunny Side Eggs on Toast]({{ "assets/images/week-1/sunny-side-eggs-success.JPG" | absolute_url }})
 
 ### 10 things I've learned in the last week
 1. No one cares if I'm doing this or not, it's really up to me to do it.
